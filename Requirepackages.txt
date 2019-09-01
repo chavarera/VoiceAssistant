@@ -1,0 +1,10 @@
+Install Required Packages
+
+#Upgrade Your Setuptools
+pip install --upgrade setuptools
+
+#For Computer voice
+pip install pyttsx
+
+#For Speech Recognition
+pip install speechRecognition
